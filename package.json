@@ -2,7 +2,7 @@
   "name": "cart-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yurchuk-vasyl.github.io/ReactClothesApp/",
+  "homepage": "https://yurchuk-vasyl.github.io/ReactCartApp/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@types/react-router-dom": "^5.3.3",
