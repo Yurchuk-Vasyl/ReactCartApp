@@ -4,16 +4,16 @@ export const mainSliderData: mainSliderData = [
   {
     title: 'Новые поступления в этом сезоне',
     text: 'Утонченные сочетания и бархатные оттенки - вот то, что вы искали в этом сезоне. Время исследовать.',
-    img: 'http://womazing.s-host.net/wp-content/uploads/2021/04/main-photo.jpg',
+    img: 'https://images.pexels.com/photos/5797579/pexels-photo-5797579.jpeg?auto=compress&cs=tinysrgb&w=1600',
   },
   {
     title: 'Что-то новенькое. Мы заждались тебя.',
     text: 'Надоело искать себя в сером городе? Настало время новых идей, свежих красок и вдохновения с Womazing!',
-    img: 'http://womazing.s-host.net/wp-content/uploads/2021/04/main-photo1.jpg',
+    img: 'https://images.pexels.com/photos/5533633/pexels-photo-5533633.jpeg?auto=compress&cs=tinysrgb&w=1600',
   },
   {
     title: 'Включай новый сезон с WOMAZING',
     text: 'Мы обновили ассортимент - легендарные коллекции и новинки от отечественных дизайнеров',
-    img: 'http://womazing.s-host.net/wp-content/uploads/2021/04/main-photo2.jpg',
+    img: 'https://images.pexels.com/photos/2705752/pexels-photo-2705752.jpeg?auto=compress&cs=tinysrgb&w=1600',
   },
 ];
