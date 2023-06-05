@@ -1,8 +1,0 @@
-@import '../../../scss/variables';
-.skeletonCommon {
-  width: 350px;
-  height: 100%;
-  @media (max-width: $mobileSmall) {
-    width: calc(350 * 0.9px);
-  }
-}
