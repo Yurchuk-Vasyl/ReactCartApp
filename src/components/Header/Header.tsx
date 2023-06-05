@@ -75,7 +75,7 @@ export const Header: React.FC = () => {
       >
         <div className="header__container">
           <div className={styles.header__items}>
-            <Link to=".." className={styles.header__logo}>
+            <Link to="." className={styles.header__logo}>
               <img src={logoIcon} alt="logo"></img>
               <div className={styles.logo__text}>Womazing</div>
             </Link>
@@ -88,7 +88,7 @@ export const Header: React.FC = () => {
                   menuIconActive && setMenuIconActive(false);
                 }}
               >
-                <NavLink to="..">
+                <NavLink to="." end>
                   <div className={styles.nav__itemLink}>Главная</div>
                 </NavLink>
                 <NavLink to="market">
