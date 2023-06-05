@@ -1,1 +1,1 @@
-export const HOME_LOCATION = '/ReactClothesApp/';
+export const HOME_LOCATION = 'ReactCartApp/';
